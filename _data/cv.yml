@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 30th July 1988
     - name: Languages
-      value: English German (~B1)
+      value: English (Native) German (~B1)
 
 - title: Education
   type: time_table
@@ -15,12 +15,12 @@
       institution: University of Melbourne, Melbourne, Australia
       year: 2018
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      #  - Description 1.
+      #  - Description 2.
+      #  - title: Descriptio
+      #    contents:
+      #      - Sub-description 1.
+      #      - Sub-description 2.
     - title: Bachelor of Pychology (Honours Class I)
       institution: University of Wollongong, Wollongong, Australia
       year: 2010
@@ -40,7 +40,7 @@
       #       - Sub-description 2.
     - title: Postdoctor
       institution: Murdoch Children's Research Institute, Melbourne, Australia
-      year: August 2018-December 2018
+      year: Aug-Dec 2018
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -74,12 +74,15 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2010
+      items: 
+          - APS Prize
+    - year: 2018
+      items:
+        - PhD thesis nominated for University of Melbourne Chancellor's Prize 
 #         - Matteucci Medal
 #     - year: 2029
 #       items: 
