@@ -5,7 +5,7 @@ date: 2024-01-11 08:57:00-0400
 description: 
 tags: statistics Bayesian frequentist hypothesis testing
 categories: statistics
-giscus_comments: true
+giscus_comments: false
 related_posts: false
 ---
 
