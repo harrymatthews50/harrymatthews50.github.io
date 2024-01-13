@@ -9,9 +9,6 @@ giscus_comments: false
 related_posts: false
 ---
 
-{% raw %}
-
-
 {::nomarkdown} 
 {% assign jupyter_path = "assets/jupyter/hypothesis_testing.ipynb" | relative_url %} 
 {% capture notebook_exists %}{% file_exists assets/jupyter/hypothesis_testing.ipynb %}{% endcapture %} 
