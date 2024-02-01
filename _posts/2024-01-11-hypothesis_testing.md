@@ -9,7 +9,7 @@ giscus_comments: false
 related_posts: false
 ---
 
-You can find the Jupyter notebook for this post [here](https://github.com/harrymatthews50/harrymatthews50.github.io/blob/master/assets/jupyter/hypothesis_testing.ipynb)
+You can find the Jupyter notebook for this post [here](https://github.com/harrymatthews50/harrymatthews50.github.io/blob/master/assets/jupyter/hypothesis_testing.ipynb).
 
 {::nomarkdown} 
 {% assign jupyter_path = "assets/jupyter/hypothesis_testing.ipynb" | relative_url %} 
